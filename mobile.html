@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Survie Mc Mobile</title>
+    <link rel="stylesheet" href="mobile.css" />
+  </head>
+  <body>
+    <main class="phone-shell">
+      <section class="hero-card">
+        <div class="top-row">
+          <div class="brand-mark">S</div>
+          <button id="refreshButton" class="icon-button" aria-label="Actualiser">↻</button>
+        </div>
+
+        <p id="themeEyebrow" class="eyebrow">Survie Mc</p>
+        <h1 id="themeTitle">Launcher mobile</h1>
+        <p id="themeSubtitle">Teste les liens, les votes et les actualites sans lancer Minecraft.</p>
+
+        <div class="server-status">
+          <span id="statusDot"></span>
+          <strong id="serverStatus">Verification...</strong>
+          <small id="playerCount">serveurmc.servehttp.com</small>
+        </div>
+      </section>
+
+      <section class="actions-grid">
+        <button id="copyIpButton" class="action-card primary">
+          <span>Copier IP</span>
+          <strong>serveurmc.servehttp.com</strong>
+        </button>
+        <a id="voteButton" class="action-card" href="https://nathforyou.github.io/survie-mc/votes.html">
+          <span>Votes</span>
+          <strong>Mods proposes</strong>
+        </a>
+        <a class="action-card" href="https://nathforyou.github.io/survie-mc/news.json">
+          <span>Debug</span>
+          <strong>News JSON</strong>
+        </a>
+        <a class="action-card" href="https://nathforyou.github.io/survie-mc/theme.json">
+          <span>Debug</span>
+          <strong>Theme JSON</strong>
+        </a>
+      </section>
+
+      <section class="panel">
+        <div class="panel-title">
+          <p class="eyebrow">Actualites</p>
+          <h2>Notes du serveur</h2>
+        </div>
+        <div id="newsList" class="news-list">
+          <div class="empty">Chargement...</div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-title">
+          <p class="eyebrow">Test</p>
+          <h2>Liens vote</h2>
+        </div>
+        <div id="voteLinks" class="vote-links"></div>
+      </section>
+    </main>
+
+    <script src="mobile.js"></script>
+  </body>
+</html>
