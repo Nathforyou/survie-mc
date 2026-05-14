@@ -1,0 +1,12 @@
+[
+  {
+    "label": "Vote serveur",
+    "url": "https://serveur-minecraft-vote.fr/",
+    "description": "Vote pour aider Survie Mc a monter dans le classement."
+  },
+  {
+    "label": "Top serveur",
+    "url": "https://www.serveurs-minecraft.org/",
+    "description": "Deuxieme lien de vote configurable."
+  }
+]

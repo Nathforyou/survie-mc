@@ -1,0 +1,20 @@
+{
+  "serverName": "Survie Mc",
+  "minecraftVersion": "1.20.1",
+  "forgeVersion": "47.2.0",
+  "serverIp": "serveurmc.servehttp.com",
+  "serverPort": 25565,
+  "manifestUrl": "required-mods-manifest.json",
+  "logoUrl": "https://example.com/assets/logo.png",
+  "newsUrl": "https://example.com/modpack/news.json",
+  "themeUrl": "theme.json",
+  "appDataFolder": "SurvieMcLauncher",
+  "forgeInstallerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-installer.jar",
+  "serverStartBatPath": "C:\\Users\\natha\\Desktop\\serveur mc forge 1.20.1\\run.bat",
+  "serverAdminWindowsUser": "natha",
+  "serverAdminMinecraftUsername": "NathForYou_FR",
+  "gameDirectory": "%APPDATA%\\.minecraft",
+  "launchGateSecret": "survie-mc-change-this-secret-before-sharing",
+  "updateUrl": "launcher-update.json",
+  "voteLinksUrl": "vote-links.json"
+}

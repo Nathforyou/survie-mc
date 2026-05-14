@@ -1,0 +1,22 @@
+{
+  "name": "Ete Survie Mc",
+  "variant": "summer",
+  "colors": {
+    "backgroundTop": "#4ba5d0",
+    "backgroundMiddle": "#2f8f58",
+    "backgroundBottom": "#08261a",
+    "panel": "rgba(10, 40, 26, 0.74)",
+    "card": "rgba(255, 255, 226, 0.09)",
+    "accent": "#fff06d",
+    "accentStrong": "#39b94d",
+    "accentSoft": "#d8ff76",
+    "text": "#fffdf0",
+    "muted": "#d3e7c9",
+    "danger": "#ff6868"
+  },
+  "hero": {
+    "eyebrow": "Theme ete",
+    "title": "Rejoins Survie Mc sous le soleil.",
+    "subtitle": "Prepare ton profil, verifie tes mods, puis entre dans la survie."
+  }
+}
