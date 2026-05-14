@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Votes - Survie Mc</title>
+    <link rel="stylesheet" href="votes.css" />
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  </head>
+  <body>
+    <main class="page-shell">
+      <section class="hero">
+        <div>
+          <p class="eyebrow">Survie Mc</p>
+          <h1>Votes de la survie</h1>
+          <p>Choisis si un mod doit rejoindre le serveur. Chaque vote compte une seule fois par appareil.</p>
+        </div>
+        <button id="adminToggle" class="ghost-button">Admin</button>
+      </section>
+
+      <section id="setupBox" class="setup-box hidden">
+        Configure Supabase dans <strong>votes.js</strong> pour activer les votes en ligne.
+      </section>
+
+      <section id="adminPanel" class="admin-panel hidden">
+        <header>
+          <div>
+            <p class="eyebrow">Administration</p>
+            <h2>Ajouter un vote</h2>
+            <p id="adminStatus" class="admin-status">Connexion Google requise.</p>
+          </div>
+          <div class="admin-actions">
+            <button id="googleLogin" class="primary-button" type="button">Connexion Google</button>
+            <button id="googleLogout" class="ghost-button hidden" type="button">Deconnexion</button>
+            <button id="closeAdmin" class="ghost-button" type="button">Fermer</button>
+          </div>
+        </header>
+
+        <form id="pollForm" class="poll-form hidden">
+          <label>Nom du mod<input id="modName" placeholder="Ex: Create" required /></label>
+          <label>Titre<input id="pollTitle" placeholder="Ajouter Create dans la survie ?" required /></label>
+          <label>Description<textarea id="pollDescription" placeholder="Explique ce que le mod ajoute." rows="4"></textarea></label>
+          <label>Lien du mod<input id="modUrl" placeholder="https://www.curseforge.com/..." /></label>
+          <button class="primary-button" type="submit">Publier le vote</button>
+        </form>
+      </section>
+
+      <section class="content-card">
+        <div class="section-title">
+          <div>
+            <p class="eyebrow">Votes ouverts</p>
+            <h2>Mods proposes</h2>
+          </div>
+          <button id="refreshButton" class="ghost-button">Actualiser</button>
+        </div>
+        <div id="pollsList" class="polls-list"></div>
+      </section>
+    </main>
+
+    <template id="pollTemplate">
+      <article class="poll-card">
+        <div class="poll-head">
+          <div>
+            <span class="mod-name"></span>
+            <h3></h3>
+            <p></p>
+            <a class="mod-link" target="_blank" rel="noreferrer">Voir le mod</a>
+          </div>
+          <div class="poll-side">
+            <div class="total-votes"></div>
+            <button class="delete-poll-button hidden" type="button">Supprimer</button>
+          </div>
+        </div>
+        <div class="bars">
+          <div><div class="bar-label"><span>Oui</span><strong class="yes-count"></strong></div><div class="bar-track"><span class="yes-bar"></span></div></div>
+          <div><div class="bar-label"><span>Non</span><strong class="no-count"></strong></div><div class="bar-track"><span class="no-bar"></span></div></div>
+        </div>
+        <div class="vote-actions">
+          <button class="yes-button">Oui</button>
+          <button class="no-button">Non</button>
+        </div>
+      </article>
+    </template>
+
+    <script src="votes.js"></script>
+  </body>
+</html>
