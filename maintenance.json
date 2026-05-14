@@ -1,7 +1,7 @@
 {
-  "enabled": true,
+  "enabled": false,
   "title": "Maintenance serveur",
   "message": "Le serveur est en maintenance. Reviens bientot.",
-  "eta": "vers 16H",
+  "eta": "",
   "updatedAt": "2026-05-15T00:00:00+02:00"
 }
