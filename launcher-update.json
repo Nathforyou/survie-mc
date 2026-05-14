@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "downloadUrl": "",
-  "notes": "Aucune mise a jour disponible.",
+  "version": "1.1.4",
+  "downloadUrl": "https://nathforyou.github.io/survie-mc/Survie%20Mc%20Launcher%20Setup%201.1.4.exe",
+  "notes": "Ajout de la maintenance serveur, des notifications en ligne et du bouton Discord.",
   "mandatory": false
 }
