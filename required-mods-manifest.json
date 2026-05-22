@@ -1,0 +1,285 @@
+{
+  "version": "2026-05-22",
+  "files": [
+    {
+      "name": "[1.20.1] SecurityCraft v1.10.1.jar",
+      "path": "mods/[1.20.1] SecurityCraft v1.10.1.jar",
+      "size": 4769715,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "ad_astra-forge-1.20.1-1.15.20.jar",
+      "path": "mods/ad_astra-forge-1.20.1-1.15.20.jar",
+      "size": 7508861,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "aether-1.20.1-1.5.2-neoforge (1).jar",
+      "path": "mods/aether-1.20.1-1.5.2-neoforge (1).jar",
+      "size": 39746319,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "alexsmobs-1.22.9.jar",
+      "path": "mods/alexsmobs-1.22.9.jar",
+      "size": 26350793,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "ars_nouveau-1.20.1-4.12.7-all.jar",
+      "path": "mods/ars_nouveau-1.20.1-4.12.7-all.jar",
+      "size": 12430237,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "balm-forge-1.20.1-7.3.28-all.jar",
+      "path": "mods/balm-forge-1.20.1-7.3.28-all.jar",
+      "size": 593584,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "BiomesOPlenty-1.20.1-18.0.0.592.jar",
+      "path": "mods/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+      "size": 21800460,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "botarium-forge-1.20.1-2.3.3.jar",
+      "path": "mods/botarium-forge-1.20.1-2.3.3.jar",
+      "size": 157591,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "citadel-2.6.2-1.20.1.jar",
+      "path": "mods/citadel-2.6.2-1.20.1.jar",
+      "size": 3185379,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "CodeChickenLib-1.20.1-4.4.0.516-universal.jar",
+      "path": "mods/CodeChickenLib-1.20.1-4.4.0.516-universal.jar",
+      "size": 1472390,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "create-1.20.1-6.0.8.jar",
+      "path": "mods/create-1.20.1-6.0.8.jar",
+      "size": 19170905,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "curios-forge-5.12.1+1.20.1.jar",
+      "path": "mods/curios-forge-5.12.1+1.20.1.jar",
+      "size": 395966,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "embeddium-0.3.31+mc1.20.1.jar",
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "size": 1320675,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "ferritecore-6.0.1-forge.jar",
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "size": 123034,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "Incendium_1.20.1_v5.3.1.jar",
+      "path": "mods/Incendium_1.20.1_v5.3.1.jar",
+      "size": 4362594,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "jei-1.20.1-forge-15.20.0.110.jar",
+      "path": "mods/jei-1.20.1-forge-15.20.0.110.jar",
+      "size": 1381974,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "modernfix-forge-5.27.19+mc1.20.1.jar",
+      "path": "mods/modernfix-forge-5.27.19+mc1.20.1.jar",
+      "size": 951060,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "moremobvariants-forge+1.20.1-1.3.0.1.jar",
+      "path": "mods/moremobvariants-forge+1.20.1-1.3.0.1.jar",
+      "size": 379988,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "Nyctophobia_1.6_(FORGE)_for_1.20+.jar",
+      "path": "mods/Nyctophobia_1.6_(FORGE)_for_1.20+.jar",
+      "size": 278132,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "oculus-mc1.20.1-1.8.0.jar",
+      "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+      "size": 2851119,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "repurposed_structures-7.1.21+1.20.1-forge.jar",
+      "path": "mods/repurposed_structures-7.1.21+1.20.1-forge.jar",
+      "size": 8229129,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "path": "mods/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "size": 136923,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "resourcefullib-forge-1.20.1-2.1.24.jar",
+      "path": "mods/resourcefullib-forge-1.20.1-2.1.24.jar",
+      "size": 424237,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "Rex's-AdditionalStructures-1.20.x-(v.4.1.2).jar",
+      "path": "mods/Rex's-AdditionalStructures-1.20.x-(v.4.1.2).jar",
+      "size": 1451423,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "TerraBlender-forge-1.20.1-3.0.1.7 (1).jar",
+      "path": "mods/TerraBlender-forge-1.20.1-3.0.1.7 (1).jar",
+      "size": 107534,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "Terralith_1.20.1_v2.4.5.jar",
+      "path": "mods/Terralith_1.20.1_v2.4.5.jar",
+      "size": 2739962,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "travelersbackpack-forge-1.20.1-9.1.53.jar",
+      "path": "mods/travelersbackpack-forge-1.20.1-9.1.53.jar",
+      "size": 1358125,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "twilightforest-1.20.1-4.3.2508-universal (1).jar",
+      "path": "mods/twilightforest-1.20.1-4.3.2508-universal (1).jar",
+      "size": 23332091,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "voicechat-forge-1.20.1-2.6.17.jar",
+      "path": "mods/voicechat-forge-1.20.1-2.6.17.jar",
+      "size": 4903246,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "waystones-forge-1.20.1-14.1.20.jar",
+      "path": "mods/waystones-forge-1.20.1-14.1.20.jar",
+      "size": 533738,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "xaerominimap-forge-1.20.1-25.3.10.jar",
+      "path": "mods/xaerominimap-forge-1.20.1-25.3.10.jar",
+      "size": 2146522,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "YungsApi-1.20-Forge-4.0.6.jar",
+      "path": "mods/YungsApi-1.20-Forge-4.0.6.jar",
+      "size": 370524,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "path": "mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "size": 473564,
+      "sha256": "",
+      "url": ""
+    },
+    {
+      "name": "structurize-1.20.1-1.0.806-snapshot.jar",
+      "path": "mods/structurize-1.20.1-1.0.806-snapshot.jar",
+      "size": 1124580,
+      "sha256": "B095261E31A517264F44AA6F369243857FB253102C180F62E1514D6D1AF94FC0",
+      "url": ""
+    },
+    {
+      "name": "blockui-1.20.1-1.0.190-snapshot.jar",
+      "path": "mods/blockui-1.20.1-1.0.190-snapshot.jar",
+      "size": 390916,
+      "sha256": "B6ED0FBF31F7351D6AD151A01C507A3D51E405F09BF2E2A46CB528FCDCF96A96",
+      "url": ""
+    },
+    {
+      "name": "domum_ornamentum-1.20.1-1.0.288-snapshot-universal.jar",
+      "path": "mods/domum_ornamentum-1.20.1-1.0.288-snapshot-universal.jar",
+      "size": 1139998,
+      "sha256": "F92741D361749140FC176B177C3FF83C86E254B66B473D4811C14057EFD2264E",
+      "url": ""
+    },
+    {
+      "name": "minecolonies-1.20.1-1.1.1227-snapshot.jar",
+      "path": "mods/minecolonies-1.20.1-1.1.1227-snapshot.jar",
+      "size": 77802012,
+      "sha256": "B59536729A4B7CF7ED8D370A593E06BE83CB42FD5710413B010108AEDC8895A3",
+      "url": ""
+    },
+    {
+      "name": "mcjtylib-1.20-8.0.4.jar",
+      "path": "mods/mcjtylib-1.20-8.0.4.jar",
+      "size": 674534,
+      "sha256": "F1E682E5DA4814C76C64D48E98F63107703CD91BD2BFEE4B1421DE33422DC6D1",
+      "url": ""
+    },
+    {
+      "name": "rftoolsbase-1.20-5.0.3.jar",
+      "path": "mods/rftoolsbase-1.20-5.0.3.jar",
+      "size": 418276,
+      "sha256": "BEB039B2F97D3F2B2EE781C7D2832220D229DE76927AD0287A16F289937F34AC",
+      "url": ""
+    },
+    {
+      "name": "rftoolsutility-1.20-6.0.6.jar",
+      "path": "mods/rftoolsutility-1.20-6.0.6.jar",
+      "size": 1368153,
+      "sha256": "300B67FBA7D79F90E34DA445E16B04A82D002393AFC99B0E65F9B28156522159",
+      "url": ""
+    }
+  ]
+}
