@@ -1,0 +1,22 @@
+{
+  "name": "Nether Survie Mc",
+  "variant": "nether",
+  "colors": {
+    "backgroundTop": "#270706",
+    "backgroundMiddle": "#5f1710",
+    "backgroundBottom": "#090303",
+    "panel": "rgba(28, 7, 5, 0.78)",
+    "card": "rgba(255, 122, 58, 0.1)",
+    "accent": "#ffb13d",
+    "accentStrong": "#e14024",
+    "accentSoft": "#ffd16c",
+    "text": "#fff3df",
+    "muted": "#f1b995",
+    "danger": "#ff5f5f"
+  },
+  "hero": {
+    "eyebrow": "Theme Nether",
+    "title": "Rejoins Survie Mc dans le Nether.",
+    "subtitle": "Prepare ton profil, verifie tes mods, puis entre dans la survie."
+  }
+}
