@@ -1,0 +1,7 @@
+{
+  "version": "1.1.9",
+  "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/v1.1.9/Survie.Mc.Launcher.Setup.1.1.9.exe",
+  "notes": "Ajout du choix de theme avec apercu: Nether, End, Ete et Hiver.",
+  "mandatory": true,
+  "silent": true
+}
