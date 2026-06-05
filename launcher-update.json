@@ -1,7 +1,0 @@
-{
-  "version": "1.1.8",
-  "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/v1.1.8/Survie.Mc.Launcher.Setup.1.1.8.exe",
-  "notes": "Vraie image Nether, fond general en degrade et ecran de chargement Nether.",
-  "mandatory": true,
-  "silent": true
-}
