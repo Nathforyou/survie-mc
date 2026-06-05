@@ -1,0 +1,7 @@
+{
+  "version": "1.1.7",
+  "downloadUrl": "https://nathforyou.github.io/survie-mc/Survie%20Mc%20Launcher%20Setup%201.1.7.exe",
+  "notes": "Theme Nether, boutons plus arrondis et auto-update obligatoire pour les prochaines versions.",
+  "mandatory": true,
+  "silent": true
+}
