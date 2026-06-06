@@ -1,0 +1,23 @@
+[
+  {
+    "date": "06/06/2026",
+    "tag": "Update",
+    "title": "Nouvelle interface",
+    "body": "Accueil, Jouer, Vote, Actualites et Profil ont maintenant une interface plus claire et modifiable.",
+    "imageUrl": "https://nathforyou.github.io/survie-mc/assets/end-hero.png?v=build7"
+  },
+  {
+    "date": "06/06/2026",
+    "tag": "Discord",
+    "title": "Discord ouvert",
+    "body": "Rejoins le Discord pour suivre les annonces, les votes et les discussions autour de Survie Mc.",
+    "imageUrl": "https://nathforyou.github.io/survie-mc/assets/winter-hero.png?v=build7"
+  },
+  {
+    "date": "06/06/2026",
+    "tag": "Vote",
+    "title": "Votes plus visibles",
+    "body": "Les votes ont maintenant leur propre espace pour mieux suivre les decisions de la communaute.",
+    "imageUrl": "https://nathforyou.github.io/survie-mc/assets/nether-hero.png?v=build7"
+  }
+]
