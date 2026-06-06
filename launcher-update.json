@@ -1,7 +1,0 @@
-{
-  "version": "1.1.10",
-  "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.10/Survie.Mc.Launcher.Setup.1.1.10.exe",
-  "notes": "Grosse refonte visuelle: panneaux Accueil, Jouer, Vote, Actualites et Profil, nouvelle scene de lancement et theme evenement 1.1.10.",
-  "mandatory": true,
-  "silent": true
-}
