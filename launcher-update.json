@@ -1,8 +1,0 @@
-{
-  "version": "1.1.11",
-  "build": 1,
-  "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/Survie.Mc.Launcher.Setup.1.1.11.exe",
-  "notes": "Correctif mise a jour: detection des changements de build, logo corrige, themes uniformes et Accueil sans bouton Jouer.",
-  "mandatory": true,
-  "silent": true
-}
