@@ -1,8 +1,8 @@
 {
   "version": "1.1.11",
-  "build": 20,
+  "build": 21,
   "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/Survie.Mc.Launcher.Setup.1.1.11.exe",
-  "notes": "Interface 1.1.11 build 20: choix manuel de la version du launcher.",
+  "notes": "Interface 1.1.11 build 21: onglet Versions dans la navigation du launcher.",
   "mandatory": true,
   "silent": true
 }
