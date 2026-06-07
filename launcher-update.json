@@ -1,8 +1,8 @@
 {
   "version": "1.1.11",
-  "build": 10,
+  "build": 11,
   "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/Survie.Mc.Launcher.Setup.1.1.11.exe",
-  "notes": "Interface 1.1.11 build 10: correction du panneau de notifications au premier plan.",
+  "notes": "Interface 1.1.11 build 11: notifications de vote detectees au lancement et son d'alerte.",
   "mandatory": true,
   "silent": true
 }
