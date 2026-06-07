@@ -1,8 +1,8 @@
 {
   "version": "1.1.11",
-  "build": 30,
+  "build": 31,
   "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/Survie.Mc.Launcher.Setup.1.1.11.exe",
-  "notes": "Interface 1.1.11 build 30: ambiance sonore discrete selon le theme avec reglage dans Options.",
+  "notes": "Interface 1.1.11 build 31: le theme End utilise maintenant le disque audio personnalise.",
   "mandatory": true,
   "silent": true
 }

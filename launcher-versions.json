@@ -1,10 +1,10 @@
 [
   {
     "version": "1.1.11",
-    "build": 30,
+    "build": 31,
     "label": "Derniere version",
     "date": "07/06/2026",
-    "notes": "Ambiance sonore discrete selon le theme avec reglage dans Options.",
+    "notes": "Le theme End utilise maintenant le disque audio personnalise.",
     "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/Survie.Mc.Launcher.Setup.1.1.11.exe",
     "recommended": true
   },
