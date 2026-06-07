@@ -1,8 +1,8 @@
 {
   "version": "1.1.11",
-  "build": 25,
+  "build": 26,
   "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/Survie.Mc.Launcher.Setup.1.1.11.exe",
-  "notes": "Interface 1.1.11 build 25: Discord Rich Presence avec menu actuel.",
+  "notes": "Interface 1.1.11 build 26: Discord Rich Presence configuree avec logo.png.",
   "mandatory": true,
   "silent": true
 }
