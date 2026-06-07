@@ -1,8 +1,8 @@
 {
   "version": "1.1.11",
-  "build": 13,
+  "build": 14,
   "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/Survie.Mc.Launcher.Setup.1.1.11.exe",
-  "notes": "Interface 1.1.11 build 13: nouvel affichage Actualites avec grandes cartes imagees.",
+  "notes": "Interface 1.1.11 build 14: notifications joueur sans Anonymous Player et nouveautes affichees apres update.",
   "mandatory": true,
   "silent": true
 }
