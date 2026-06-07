@@ -1,8 +1,8 @@
 {
   "version": "1.1.11",
-  "build": 15,
+  "build": 16,
   "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/Survie.Mc.Launcher.Setup.1.1.11.exe",
-  "notes": "Interface 1.1.11 build 15: fenetre Nouveautes plus arrondie.",
+  "notes": "Interface 1.1.11 build 16: fenetre Nouveautes reaffichee au lancement.",
   "mandatory": true,
   "silent": true
 }
