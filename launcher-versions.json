@@ -1,10 +1,10 @@
 [
   {
     "version": "1.1.11",
-    "build": 22,
+    "build": 23,
     "label": "Derniere version",
     "date": "07/06/2026",
-    "notes": "Correctif installation des versions depuis l onglet Versions.",
+    "notes": "Anciennes versions plus claires avec avertissement legacy.",
     "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/Survie.Mc.Launcher.Setup.1.1.11.exe",
     "recommended": true
   },
@@ -14,6 +14,8 @@
     "label": "Ancienne version retrouvee",
     "date": "15/05/2026",
     "notes": "Ancien installateur retrouve dans le dossier du projet.",
-    "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/Survie.Mc.Launcher.Setup.1.1.5.exe"
+    "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/Survie.Mc.Launcher.Setup.1.1.5.exe",
+    "legacy": true,
+    "warning": "Ancienne interface: pas de theme ete, pas de disposition modifiable et panneaux moins bien places."
   }
 ]
