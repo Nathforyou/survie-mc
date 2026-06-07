@@ -1,10 +1,10 @@
 [
   {
     "version": "1.1.11",
-    "build": 21,
+    "build": 22,
     "label": "Derniere version",
     "date": "07/06/2026",
-    "notes": "Onglet Versions et choix manuel de la version du launcher.",
+    "notes": "Correctif installation des versions depuis l onglet Versions.",
     "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/Survie.Mc.Launcher.Setup.1.1.11.exe",
     "recommended": true
   },
