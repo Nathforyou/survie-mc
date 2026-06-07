@@ -1,8 +1,8 @@
 {
   "version": "1.1.11",
-  "build": 12,
+  "build": 13,
   "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/Survie.Mc.Launcher.Setup.1.1.11.exe",
-  "notes": "Interface 1.1.11 build 12: option sons de notification et badges sur les onglets Vote/Actualites.",
+  "notes": "Interface 1.1.11 build 13: nouvel affichage Actualites avec grandes cartes imagees.",
   "mandatory": true,
   "silent": true
 }
