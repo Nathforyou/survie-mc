@@ -1,10 +1,10 @@
 [
   {
     "version": "1.1.11",
-    "build": 24,
+    "build": 25,
     "label": "Derniere version",
     "date": "07/06/2026",
-    "notes": "Ajout des versions 1.0.0 retrouvees dans l onglet Versions.",
+    "notes": "Discord Rich Presence avec menu actuel.",
     "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/Survie.Mc.Launcher.Setup.1.1.11.exe",
     "recommended": true
   },
