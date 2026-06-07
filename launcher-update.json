@@ -1,8 +1,8 @@
 {
   "version": "1.1.11",
-  "build": 31,
-  "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/Survie.Mc.Launcher.Setup.1.1.11.exe",
-  "notes": "Interface 1.1.11 build 31: le theme End utilise maintenant le disque audio personnalise.",
+  "build": 32,
+  "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/Survie.Mc.Launcher.Setup.1.1.11.exe",
+  "notes": "Interface 1.1.11 build 32: musiques par theme et volume sans redemarrer la piste.",
   "mandatory": true,
   "silent": true
 }
