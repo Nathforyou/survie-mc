@@ -1,10 +1,10 @@
 [
   {
     "version": "1.1.11",
-    "build": 33,
+    "build": 34,
     "label": "Derniere version",
     "date": "07/06/2026",
-    "notes": "Barre de volume ambiance de 0 a 100 sans redemarrer la piste.",
+    "notes": "Ambiance coupee en jeu, Discord plus precis et notifications joueur avec avatar.",
     "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/Survie.Mc.Launcher.Setup.1.1.11.exe",
     "recommended": true
   },
