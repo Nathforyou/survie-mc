@@ -1,10 +1,10 @@
 [
   {
     "version": "1.1.11",
-    "build": 23,
+    "build": 24,
     "label": "Derniere version",
     "date": "07/06/2026",
-    "notes": "Anciennes versions plus claires avec avertissement legacy.",
+    "notes": "Ajout des versions 1.0.0 retrouvees dans l onglet Versions.",
     "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/Survie.Mc.Launcher.Setup.1.1.11.exe",
     "recommended": true
   },
@@ -17,5 +17,25 @@
     "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/Survie.Mc.Launcher.Setup.1.1.5.exe",
     "legacy": true,
     "warning": "Ancienne interface: pas de theme ete, pas de disposition modifiable et panneaux moins bien places."
+  },
+  {
+    "version": "1.0.0",
+    "build": 2,
+    "label": "Premiere Surive Mc retrouvee",
+    "date": "12/05/2026",
+    "notes": "Ancien installateur Surive Mc Launcher retrouve sur le Bureau.",
+    "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/Survie.Mc.Launcher.Setup.1.0.0.exe",
+    "legacy": true,
+    "warning": "Toute premiere interface retrouvee: pas de theme ete, pas de disposition modifiable et fonctions recentes absentes."
+  },
+  {
+    "version": "1.0.0",
+    "build": 1,
+    "label": "Prototype NomDuServeur",
+    "date": "12/05/2026",
+    "notes": "Prototype 1.0.0 retrouve sous le nom NomDuServeur Launcher.",
+    "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/NomDuServeur.Launcher.Setup.1.0.0.exe",
+    "legacy": true,
+    "warning": "Prototype tres ancien: interface et nom differents, fonctions recentes absentes."
   }
 ]
