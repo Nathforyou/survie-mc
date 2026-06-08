@@ -1,8 +1,8 @@
 {
   "version": "1.1.11",
-  "build": 48,
+  "build": 49,
   "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/Survie.Mc.Launcher.Setup.1.1.11.exe",
-  "notes": "Interface 1.1.11 build 48: correctif affichage vert vide au demarrage.",
+  "notes": "Interface 1.1.11 build 49: FPS recuperes et correctif rendu vert cible.",
   "mandatory": true,
   "silent": true
 }
