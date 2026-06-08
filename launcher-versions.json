@@ -1,10 +1,10 @@
 [
   {
     "version": "1.1.11",
-    "build": 35,
+    "build": 36,
     "label": "Derniere version",
     "date": "07/06/2026",
-    "notes": "Correction Rich Presence Discord bloquee sur un ancien menu.",
+    "notes": "Mini lecteur musique avec pause, lecture et progression.",
     "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/Survie.Mc.Launcher.Setup.1.1.11.exe",
     "recommended": true
   },

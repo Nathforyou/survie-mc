@@ -1,8 +1,8 @@
 {
   "version": "1.1.11",
-  "build": 35,
+  "build": 36,
   "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/Survie.Mc.Launcher.Setup.1.1.11.exe",
-  "notes": "Interface 1.1.11 build 35: correction Rich Presence Discord bloquee sur un ancien menu.",
+  "notes": "Interface 1.1.11 build 36: mini lecteur musique avec pause, lecture et progression.",
   "mandatory": true,
   "silent": true
 }
