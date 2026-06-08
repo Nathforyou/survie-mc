@@ -1,10 +1,10 @@
 [
   {
     "version": "1.1.11",
-    "build": 46,
+    "build": 47,
     "label": "Derniere version",
     "date": "08/06/2026",
-    "notes": "Demarrage securise: les services lents ne bloquent plus l interface.",
+    "notes": "Affichage du build corrige dans l onglet Versions.",
     "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/Survie.Mc.Launcher.Setup.1.1.11.exe",
     "recommended": true
   },
