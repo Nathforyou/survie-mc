@@ -1,8 +1,8 @@
 {
   "version": "1.1.11",
-  "build": 44,
+  "build": 45,
   "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/Survie.Mc.Launcher.Setup.1.1.11.exe",
-  "notes": "Interface 1.1.11 build 44: notes perso du launcher et livre Minecraft via SurvieMcGate.",
+  "notes": "Interface 1.1.11 build 45: onglet Notes separe et correction du crash de creation de note.",
   "mandatory": true,
   "silent": true
 }
