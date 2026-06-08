@@ -1,8 +1,8 @@
 {
   "version": "1.1.11",
-  "build": 50,
+  "build": 51,
   "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/Survie.Mc.Launcher.Setup.1.1.11.exe",
-  "notes": "Interface 1.1.11 build 50: correctif crash de l onglet Notes.",
+  "notes": "Interface 1.1.11 build 51: correctif saisie et sauvegarde des notes.",
   "mandatory": true,
   "silent": true
 }

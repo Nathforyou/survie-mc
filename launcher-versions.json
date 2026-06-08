@@ -1,10 +1,10 @@
 [
   {
     "version": "1.1.11",
-    "build": 50,
+    "build": 51,
     "label": "Derniere version",
     "date": "08/06/2026",
-    "notes": "Correctif crash de l onglet Notes.",
+    "notes": "Correctif saisie et sauvegarde des notes.",
     "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/Survie.Mc.Launcher.Setup.1.1.11.exe",
     "recommended": true
   },
