@@ -1,5 +1,12 @@
 [
   {
+    "date": "09/06/2026",
+    "tag": "Update",
+    "title": "Mise a jour 1.1.12",
+    "body": "Maintenance plus claire: quand le serveur est en maintenance, le bouton Jouer est bloque avec message et estimation.\n\nChargement anime: le launcher affiche maintenant un vrai ecran de chargement avec le logo.\n\nNouveautes dans Actualites: les notes de mise a jour sont aussi ajoutees dans l onglet Actualites.",
+    "imageUrl": "https://nathforyou.github.io/survie-mc/assets/end-hero.png?v=build7"
+  },
+  {
     "date": "06/06/2026",
     "tag": "Update",
     "title": "Nouvelle interface",

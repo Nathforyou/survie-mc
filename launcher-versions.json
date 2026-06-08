@@ -1,12 +1,20 @@
 [
   {
+    "version": "1.1.12",
+    "build": 52,
+    "label": "Derniere version",
+    "date": "09/06/2026",
+    "notes": "Mode maintenance propre, chargement anime et notes de mise a jour dans Actualites.",
+    "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.12/Survie.Mc.Launcher.Setup.1.1.12.exe",
+    "recommended": true
+  },
+  {
     "version": "1.1.11",
     "build": 51,
-    "label": "Derniere version",
+    "label": "Version precedente",
     "date": "08/06/2026",
     "notes": "Correctif saisie et sauvegarde des notes.",
-    "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/Survie.Mc.Launcher.Setup.1.1.11.exe",
-    "recommended": true
+    "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/Survie.Mc.Launcher.Setup.1.1.11.exe"
   },
   {
     "version": "1.1.5",
