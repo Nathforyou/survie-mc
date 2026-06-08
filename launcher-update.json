@@ -1,8 +1,8 @@
 {
   "version": "1.1.11",
-  "build": 40,
+  "build": 41,
   "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/Survie.Mc.Launcher.Setup.1.1.11.exe",
-  "notes": "Interface 1.1.11 build 40: lecteur musique anime et redimensionnable librement.",
+  "notes": "Interface 1.1.11 build 41: onglet favori, lecteur discret et pochettes musique.",
   "mandatory": true,
   "silent": true
 }
