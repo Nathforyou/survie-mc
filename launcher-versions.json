@@ -1,10 +1,10 @@
 [
   {
     "version": "1.1.11",
-    "build": 34,
+    "build": 35,
     "label": "Derniere version",
     "date": "07/06/2026",
-    "notes": "Ambiance coupee en jeu, Discord plus precis et notifications joueur avec avatar.",
+    "notes": "Correction Rich Presence Discord bloquee sur un ancien menu.",
     "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/Survie.Mc.Launcher.Setup.1.1.11.exe",
     "recommended": true
   },
