@@ -1,10 +1,10 @@
 [
   {
     "version": "1.1.11",
-    "build": 36,
+    "build": 37,
     "label": "Derniere version",
     "date": "07/06/2026",
-    "notes": "Mini lecteur musique avec pause, lecture et progression.",
+    "notes": "Options scrollables pour garder le choix du theme accessible.",
     "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/Survie.Mc.Launcher.Setup.1.1.11.exe",
     "recommended": true
   },
