@@ -1,8 +1,8 @@
 {
   "version": "1.1.11",
-  "build": 41,
+  "build": 42,
   "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/Survie.Mc.Launcher.Setup.1.1.11.exe",
-  "notes": "Interface 1.1.11 build 41: onglet favori, lecteur discret et pochettes musique.",
+  "notes": "Interface 1.1.11 build 42: pochette musique nette et mode discret corrige.",
   "mandatory": true,
   "silent": true
 }
