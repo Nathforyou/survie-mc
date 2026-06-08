@@ -1,8 +1,8 @@
 {
   "version": "1.1.11",
-  "build": 43,
+  "build": 44,
   "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/Survie.Mc.Launcher.Setup.1.1.11.exe",
-  "notes": "Interface 1.1.11 build 43: presets de disposition et nouveau disque End Wait.",
+  "notes": "Interface 1.1.11 build 44: notes perso du launcher et livre Minecraft via SurvieMcGate.",
   "mandatory": true,
   "silent": true
 }

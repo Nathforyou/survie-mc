@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-22",
+  "version": "2026-06-08-notes",
   "files": [
     {
       "name": "[1.20.1] SecurityCraft v1.10.1.jar",
@@ -280,6 +280,13 @@
       "size": 419412,
       "sha256": "72E0996ABE9A2B209D034744707603EF97181644C1552881376CA4925E3119E3",
       "url": ""
+    },
+    {
+      "name": "surviemc-gate-forge-1.20.1-1.0.0.jar",
+      "path": "mods/surviemc-gate-forge-1.20.1-1.0.0.jar",
+      "size": 32852,
+      "sha256": "2AAB80D3EBB6FD7106B161F127059ACF734FB456161569F1C5CD9710F634558F",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/surviemc-gate-forge-1.20.1-1.0.0.jar"
     }
   ]
 }
