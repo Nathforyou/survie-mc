@@ -1,8 +1,0 @@
-{
-  "version": "1.1.12",
-  "build": 52,
-  "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.12/Survie.Mc.Launcher.Setup.1.1.12.exe",
-  "notes": "Interface 1.1.12: mode maintenance propre, chargement anime et notes de mise a jour dans Actualites.",
-  "mandatory": true,
-  "silent": true
-}
