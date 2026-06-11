@@ -3,18 +3,18 @@
     "version": "1.1.14",
     "build": 55,
     "label": "Derniere version",
-    "date": "09/06/2026",
-    "notes": "Mode maintenance propre, chargement anime et notes de mise a jour dans Actualites.",
-    "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.12/Survie.Mc.Launcher.Setup.1.1.12.exe",
+    "date": "11/06/2026",
+    "notes": "Interface 1.1.14: les joueurs crackes peuvent maintenant jouer a la survie normalement.",
+    "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.14/Survie.Mc.Launcher.Setup.1.1.14.exe",
     "recommended": true
   },
   {
     "version": "1.1.12",
     "build": 54,
     "label": "Version precedente",
-    "date": "08/06/2026",
-    "notes": "Correctif saisie et sauvegarde des notes.",
-    "downloadUrl": "bientôt disponible sur GitHub"
+    "date": "09/06/2026",
+    "notes": "Mode maintenance propre, chargement anime et notes de mise a jour dans Actualites.",
+    "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.12/Survie.Mc.Launcher.Setup.1.1.12.exe"
   },
   {
     "version": "1.1.11",

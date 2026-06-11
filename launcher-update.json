@@ -2,7 +2,7 @@
   "version": "1.1.14",
   "build": 55,
   "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.14/Survie.Mc.Launcher.Setup.1.1.14.exe",
-  "notes": "Interface 1.1.14: Maintenant. Les joueurs cracké peuvent jouer a la survie noramlement.",
+  "notes": "Interface 1.1.14: les joueurs crackes peuvent maintenant jouer a la survie normalement.",
   "mandatory": true,
   "silent": true
 }
