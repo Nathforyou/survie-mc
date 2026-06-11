@@ -2,6 +2,13 @@
   {
     "date": "11/06/2026",
     "tag": "Update",
+    "title": "Correctif 1.1.14 build 58",
+    "body": "Le lancement gere mieux les installations Forge venant de TLauncher.\n\nLa fenetre Nouveautes affiche maintenant les changements de la build actuelle au lieu de rester bloquee sur une ancienne liste.",
+    "imageUrl": "https://nathforyou.github.io/survie-mc/assets/end-hero.png?v=build7"
+  },
+  {
+    "date": "11/06/2026",
+    "tag": "Update",
     "title": "Correctif 1.1.14 build 57",
     "body": "Le lancement en mode hors-ligne est plus robuste pour les joueurs non officiels. Le launcher evite aussi l erreur technique replace quand une donnee est manquante.",
     "imageUrl": "https://nathforyou.github.io/survie-mc/assets/end-hero.png?v=build7"

@@ -1,10 +1,10 @@
 [
   {
     "version": "1.1.14",
-    "build": 57,
+    "build": 58,
     "label": "Derniere version",
     "date": "11/06/2026",
-    "notes": "Correctif 1.1.14 build 57: lancement hors-ligne plus robuste pour les joueurs non officiels.",
+    "notes": "Correctif 1.1.14 build 58: compatibilite Forge/TLauncher et fenetre Nouveautes mise a jour.",
     "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.14/Survie.Mc.Launcher.Setup.1.1.14.exe",
     "recommended": true
   },
