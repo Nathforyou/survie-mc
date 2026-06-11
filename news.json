@@ -2,6 +2,13 @@
   {
     "date": "11/06/2026",
     "tag": "Update",
+    "title": "Correctif 1.1.14 build 56",
+    "body": "La console DevTools ne s ouvre plus automatiquement au lancement du launcher.",
+    "imageUrl": "https://nathforyou.github.io/survie-mc/assets/end-hero.png?v=build7"
+  },
+  {
+    "date": "11/06/2026",
+    "tag": "Update",
     "title": "Mise a jour 1.1.14",
     "body": "Interface 1.1.14 : Les joueurs crackés peuvent désormais jouer à la survie normalement.\n\nMode maintenance propre et écran de chargement animé !",
     "imageUrl": "https://nathforyou.github.io/survie-mc/assets/end-hero.png?v=build7"
