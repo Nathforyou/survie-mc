@@ -1,0 +1,57 @@
+[
+  {
+    "version": "1.1.13",
+    "build": 55,
+    "label": "Derniere version",
+    "date": "09/06/2026",
+    "notes": "Mode maintenance propre, chargement anime et notes de mise a jour dans Actualites.",
+    "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.12/Survie.Mc.Launcher.Setup.1.1.12.exe",
+    "recommended": true
+  },
+  {
+    "version": "1.1.12",
+    "build": 54,
+    "label": "Version precedente",
+    "date": "08/06/2026",
+    "notes": "Correctif saisie et sauvegarde des notes.",
+    "downloadUrl": "bientôt disponible sur GitHub"
+  },
+  {
+    "version": "1.1.11",
+    "build": 51,
+    "label": "Version precedente",
+    "date": "08/06/2026",
+    "notes": "Correctif saisie et sauvegarde des notes.",
+    "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/Survie.Mc.Launcher.Setup.1.1.11.exe"
+  },
+  {
+    "version": "1.1.5",
+    "build": 5,
+    "label": "Ancienne version retrouvee",
+    "date": "15/05/2026",
+    "notes": "Ancien installateur retrouve dans le dossier du projet.",
+    "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/Survie.Mc.Launcher.Setup.1.1.5.exe",
+    "legacy": true,
+    "warning": "Ancienne interface: pas de theme ete, pas de disposition modifiable et panneaux moins bien places."
+  },
+  {
+    "version": "1.0.0",
+    "build": 2,
+    "label": "Premiere Surive Mc retrouvee",
+    "date": "12/05/2026",
+    "notes": "Ancien installateur Surive Mc Launcher retrouve sur le Bureau.",
+    "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/Survie.Mc.Launcher.Setup.1.0.0.exe",
+    "legacy": true,
+    "warning": "Toute premiere interface retrouvee: pas de theme ete, pas de disposition modifiable et fonctions recentes absentes."
+  },
+  {
+    "version": "1.0.0",
+    "build": 1,
+    "label": "Prototype NomDuServeur",
+    "date": "12/05/2026",
+    "notes": "Prototype 1.0.0 retrouve sous le nom NomDuServeur Launcher.",
+    "downloadUrl": "https://raw.githubusercontent.com/Nathforyou/survie-mc/main/NomDuServeur.Launcher.Setup.1.0.0.exe",
+    "legacy": true,
+    "warning": "Prototype tres ancien: interface et nom differents, fonctions recentes absentes."
+  }
+]
