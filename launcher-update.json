@@ -1,8 +1,8 @@
 {
   "version": "1.1.14",
-  "build": 56,
+  "build": 57,
   "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.14/Survie.Mc.Launcher.Setup.1.1.14.exe",
-  "notes": "Correctif 1.1.14 build 56: les DevTools ne s ouvrent plus automatiquement.",
+  "notes": "Correctif 1.1.14 build 57: lancement hors-ligne plus robuste pour les joueurs non officiels.",
   "mandatory": true,
   "silent": true
 }
