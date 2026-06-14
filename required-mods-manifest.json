@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-14-skyblock",
+  "version": "2026-06-14-skyblock-2",
   "deletePaths": [
     "mods/surviemc-gate-forge-1.20.1-1.0.0.jar"
   ],
@@ -287,8 +287,8 @@
     {
       "name": "SurvieMc-1.0.0.jar",
       "path": "mods/SurvieMc-1.0.0.jar",
-      "size": 43335,
-      "sha256": "74CBE06EC37666B50AE71A51C5956906FE47FD559601E20BBB70C77A15A2E1F0",
+      "size": 46252,
+      "sha256": "EDBFB4A6ADF2198C67955A44A687480D3BBCA5ED7486F4BCB5C2FD117822C9CA",
       "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.14/SurvieMc-1.0.0.jar"
     }
   ]
