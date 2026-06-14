@@ -1,8 +1,8 @@
 {
   "version": "1.1.15",
-  "build": 1,
+  "build": 2,
   "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/Survie.Mc.Launcher.Setup.1.1.15.exe",
-  "notes": "1.1.15 build 1: OneBlock Lucky, inventaires separes et ameliorations Skyblock.",
+  "notes": "1.1.15 build 2: onglet Versions corrige pour afficher 1.1.15 tout en haut.",
   "mandatory": true,
   "silent": true
 }
