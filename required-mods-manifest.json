@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-14-oneblock-lucky-fix1",
+  "version": "2026-06-14-oneblock-lucky-fix2",
   "deletePaths": [
     "mods/surviemc-gate-forge-1.20.1-1.0.0.jar"
   ],
@@ -287,8 +287,8 @@
     {
       "name": "SurvieMc-1.0.0.jar",
       "path": "mods/SurvieMc-1.0.0.jar",
-      "size": 64440,
-      "sha256": "4EC2227554D894E23D05EED03BF5225CABB950624D22C12FEB02F04699129AE8",
+      "size": 64653,
+      "sha256": "D08C55E941FC22F99714652BEC4E7EAD3E4946B0893D2E770F34550ADB0CC23A",
       "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/SurvieMc-1.0.0.jar"
     }
   ]
