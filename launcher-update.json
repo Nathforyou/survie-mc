@@ -1,8 +1,8 @@
 {
   "version": "1.1.14",
-  "build": 58,
+  "build": 59,
   "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.14/Survie.Mc.Launcher.Setup.1.1.14.exe",
-  "notes": "Correctif 1.1.14 build 58: compatibilite Forge/TLauncher et fenetre Nouveautes mise a jour.",
+  "notes": "1.1.14 build 59: ajout d un panel admin avec statut, actions rapides, diagnostic, votes et actualites.",
   "mandatory": true,
   "silent": true
 }

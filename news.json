@@ -1,5 +1,12 @@
 [
   {
+    "date": "14/06/2026",
+    "tag": "Update",
+    "title": "Panel Admin 1.1.14 build 59",
+    "body": "Un nouvel onglet Admin est disponible pour l administrateur du launcher.\n\nIl regroupe le statut serveur, la maintenance, les votes, les actualites, les actions rapides, les checks techniques et un bouton pour copier un diagnostic complet.",
+    "imageUrl": "https://nathforyou.github.io/survie-mc/assets/end-hero.png?v=build7"
+  },
+  {
     "date": "11/06/2026",
     "tag": "Update",
     "title": "Correctif 1.1.14 build 58",
