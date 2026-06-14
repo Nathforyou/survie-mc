@@ -2,6 +2,13 @@
   {
     "date": "14/06/2026",
     "tag": "Update",
+    "title": "Admin Panel build 60",
+    "body": "La page Admin a ete refaite pour etre plus propre: titre reduit, cartes compactes, grille rangee, console en bas et scroll correct quand la fenetre est basse.",
+    "imageUrl": "https://nathforyou.github.io/survie-mc/assets/end-hero.png?v=build7"
+  },
+  {
+    "date": "14/06/2026",
+    "tag": "Update",
     "title": "Panel Admin 1.1.14 build 59",
     "body": "Un nouvel onglet Admin est disponible pour l administrateur du launcher.\n\nIl regroupe le statut serveur, la maintenance, les votes, les actualites, les actions rapides, les checks techniques et un bouton pour copier un diagnostic complet.",
     "imageUrl": "https://nathforyou.github.io/survie-mc/assets/end-hero.png?v=build7"
