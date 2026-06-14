@@ -1,12 +1,21 @@
 [
   {
+    "version": "1.1.15",
+    "build": 1,
+    "label": "Derniere version",
+    "date": "14/06/2026",
+    "notes": "OneBlock Lucky avec commandes /ob, lucky block infini, inventaires separes et Skyblock ameliore.",
+    "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/Survie.Mc.Launcher.Setup.1.1.15.exe",
+    "recommended": true
+  },
+  {
     "version": "1.1.14",
     "build": 62,
-    "label": "Derniere version",
+    "label": "Version precedente",
     "date": "14/06/2026",
     "notes": "1.1.14 build 62: fenetre Nouveautes nettoyee pour afficher uniquement la derniere mise a jour.",
     "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.14/Survie.Mc.Launcher.Setup.1.1.14.exe",
-    "recommended": true
+    "recommended": false
   },
   {
     "version": "1.1.12",

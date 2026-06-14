@@ -2,6 +2,13 @@
   {
     "date": "14/06/2026",
     "tag": "Update",
+    "title": "Mise a jour 1.1.15 - OneBlock Lucky",
+    "body": "Nouveau mini-jeu OneBlock Lucky: cree ton ile avec /ob create, invite un duo avec /ob invite, retourne au bloc avec /ob home et supprime ton OneBlock avec /ob delete.\n\nLe lucky block central donne une recompense ou une surprise aleatoire quand il est casse, puis reapparait automatiquement a l infini.\n\nLes regles du Skyblock sont aussi reprises: protection de l ile, anti-vide, retour a l ancienne position en quittant, inventaire de survie sauvegarde puis rendu.\n\nLe Skyblock classique a aussi ete renforce: iles plus hautes, sortie possible pour les proprietaires, suppression d ile et inventaire separe.",
+    "imageUrl": "https://nathforyou.github.io/survie-mc/assets/end-hero.png?v=build7"
+  },
+  {
+    "date": "14/06/2026",
+    "tag": "Update",
     "title": "Nouveautes nettoyees",
     "body": "La fenetre Nouveautes affiche maintenant uniquement les changements de la derniere build. Les anciennes nouveautes restent disponibles dans Actualites.",
     "imageUrl": "https://nathforyou.github.io/survie-mc/assets/end-hero.png?v=build7"
