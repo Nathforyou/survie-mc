@@ -2,6 +2,13 @@
   {
     "date": "14/06/2026",
     "tag": "Update",
+    "title": "Skyblock Survie Mc",
+    "body": "Le mod SurvieMc ajoute les bases du Skyblock solo et duo: creation d ile, home, invitation, acceptation, kick, leave, reset, info et protection contre les joueurs non membres.\n\nLe launcher sait aussi remplacer l ancien jar SurvieMcGate par le nouveau SurvieMc-1.0.0.jar.",
+    "imageUrl": "https://nathforyou.github.io/survie-mc/assets/end-hero.png?v=build7"
+  },
+  {
+    "date": "14/06/2026",
+    "tag": "Update",
     "title": "Admin Panel build 60",
     "body": "La page Admin a ete refaite pour etre plus propre: titre reduit, cartes compactes, grille rangee, console en bas et scroll correct quand la fenetre est basse.",
     "imageUrl": "https://nathforyou.github.io/survie-mc/assets/end-hero.png?v=build7"

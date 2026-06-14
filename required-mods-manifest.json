@@ -1,5 +1,8 @@
 {
-  "version": "2026-06-08-notes",
+  "version": "2026-06-14-skyblock",
+  "deletePaths": [
+    "mods/surviemc-gate-forge-1.20.1-1.0.0.jar"
+  ],
   "files": [
     {
       "name": "[1.20.1] SecurityCraft v1.10.1.jar",
@@ -282,11 +285,11 @@
       "url": ""
     },
     {
-      "name": "surviemc-gate-forge-1.20.1-1.0.0.jar",
-      "path": "mods/surviemc-gate-forge-1.20.1-1.0.0.jar",
-      "size": 32852,
-      "sha256": "2AAB80D3EBB6FD7106B161F127059ACF734FB456161569F1C5CD9710F634558F",
-      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.11/surviemc-gate-forge-1.20.1-1.0.0.jar"
+      "name": "SurvieMc-1.0.0.jar",
+      "path": "mods/SurvieMc-1.0.0.jar",
+      "size": 43335,
+      "sha256": "74CBE06EC37666B50AE71A51C5956906FE47FD559601E20BBB70C77A15A2E1F0",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.14/SurvieMc-1.0.0.jar"
     }
   ]
 }
