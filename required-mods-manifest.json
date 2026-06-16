@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-16-oneblock-all-items-mobs",
+  "version": "2026-06-16-parkour-daily-patterns",
   "deletePaths": [
     "mods/surviemc-gate-forge-1.20.1-1.0.0.jar"
   ],
@@ -287,8 +287,8 @@
     {
       "name": "SurvieMc-1.0.0.jar",
       "path": "mods/SurvieMc-1.0.0.jar",
-      "size": 77700,
-      "sha256": "2D14D1D799760E32E882A53C0EEF242F386BB6F9DA2C30A5E0C1C71951203C60",
+      "size": 79548,
+      "sha256": "98FBAFCE55B05BCF07B81E3C1863E71B859740A123D3216EA77AE0AC875FAA53",
       "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/SurvieMc-1.0.0.jar"
     }
   ]
