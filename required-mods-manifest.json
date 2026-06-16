@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-14-parkour-daily",
+  "version": "2026-06-16-full-modpack-downloads",
   "deletePaths": [
     "mods/surviemc-gate-forge-1.20.1-1.0.0.jar"
   ],
@@ -8,281 +8,281 @@
       "name": "[1.20.1] SecurityCraft v1.10.1.jar",
       "path": "mods/[1.20.1] SecurityCraft v1.10.1.jar",
       "size": 4769715,
-      "sha256": "",
-      "url": ""
+      "sha256": "EC601BA570C5351C353FC1EE0EB2F4823D1C026D265A96D3EC802070A50B6EBD",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/_1.20.1__SecurityCraft_v1.10.1.jar"
     },
     {
       "name": "ad_astra-forge-1.20.1-1.15.20.jar",
       "path": "mods/ad_astra-forge-1.20.1-1.15.20.jar",
       "size": 7508861,
-      "sha256": "",
-      "url": ""
+      "sha256": "99E274894AF7C3B01622A74775A9960B5857B35951888414E733F8C2EC683F26",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/ad_astra-forge-1.20.1-1.15.20.jar"
     },
     {
       "name": "aether-1.20.1-1.5.2-neoforge (1).jar",
       "path": "mods/aether-1.20.1-1.5.2-neoforge (1).jar",
       "size": 39746319,
-      "sha256": "",
-      "url": ""
+      "sha256": "5CB64AB1F27E78E8338FE67F9C766578904AAD9BC1F8BCC90F306EA52AEA3FC5",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/aether-1.20.1-1.5.2-neoforge__1_.jar"
     },
     {
       "name": "alexsmobs-1.22.9.jar",
       "path": "mods/alexsmobs-1.22.9.jar",
       "size": 26350793,
-      "sha256": "",
-      "url": ""
+      "sha256": "16BC5BCC19DB9029C24F951346EC71098E6F5B0AFEF96E61894A2E9407AAD37C",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/alexsmobs-1.22.9.jar"
     },
     {
       "name": "ars_nouveau-1.20.1-4.12.7-all.jar",
       "path": "mods/ars_nouveau-1.20.1-4.12.7-all.jar",
       "size": 12430237,
-      "sha256": "",
-      "url": ""
+      "sha256": "1F1DEBC282A0C379C1141F2840EA294EEDE6F6B544C589663F40BBE17B59A1AF",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/ars_nouveau-1.20.1-4.12.7-all.jar"
     },
     {
       "name": "balm-forge-1.20.1-7.3.28-all.jar",
       "path": "mods/balm-forge-1.20.1-7.3.28-all.jar",
       "size": 593584,
-      "sha256": "",
-      "url": ""
+      "sha256": "C854AE5022C308D18E6560CBB4074316ADFDE81F72C15B5D7C95460E8EC9AF3F",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/balm-forge-1.20.1-7.3.28-all.jar"
     },
     {
       "name": "BiomesOPlenty-1.20.1-18.0.0.592.jar",
       "path": "mods/BiomesOPlenty-1.20.1-18.0.0.592.jar",
       "size": 21800460,
-      "sha256": "",
-      "url": ""
+      "sha256": "C587B49931E62F89C2673936A5E7269C6DAABB713DBCC30813CB0F76DA37E01D",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/BiomesOPlenty-1.20.1-18.0.0.592.jar"
     },
     {
       "name": "botarium-forge-1.20.1-2.3.3.jar",
       "path": "mods/botarium-forge-1.20.1-2.3.3.jar",
       "size": 157591,
-      "sha256": "",
-      "url": ""
+      "sha256": "1D1A5181DD8F094B9697E814D16ED289D70C5A7404E1341EFE08D96A4B7B0CE7",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/botarium-forge-1.20.1-2.3.3.jar"
     },
     {
       "name": "citadel-2.6.2-1.20.1.jar",
       "path": "mods/citadel-2.6.2-1.20.1.jar",
       "size": 3185379,
-      "sha256": "",
-      "url": ""
+      "sha256": "BBA058ED903670E81CB98996725DBE328BA147FB72CC10CFC9E39AEE59CF0824",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/citadel-2.6.2-1.20.1.jar"
     },
     {
       "name": "CodeChickenLib-1.20.1-4.4.0.516-universal.jar",
       "path": "mods/CodeChickenLib-1.20.1-4.4.0.516-universal.jar",
       "size": 1472390,
-      "sha256": "",
-      "url": ""
+      "sha256": "9037FC4BC73E4CEC717501FC362F660F46C2A1AC34674DA2106B4605B3E4D8DB",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/CodeChickenLib-1.20.1-4.4.0.516-universal.jar"
     },
     {
       "name": "create-1.20.1-6.0.8.jar",
       "path": "mods/create-1.20.1-6.0.8.jar",
       "size": 19170905,
-      "sha256": "",
-      "url": ""
+      "sha256": "6FBB910C367DBCE8E4FC7E5BF64B6EDD4DE980906ED00AF8E47E4AF843C0D9B0",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/create-1.20.1-6.0.8.jar"
     },
     {
       "name": "curios-forge-5.12.1+1.20.1.jar",
       "path": "mods/curios-forge-5.12.1+1.20.1.jar",
       "size": 395966,
-      "sha256": "",
-      "url": ""
+      "sha256": "9E902A43BA65907324A5BFC0D78098927CC791C477268BE4A7602EDA237B4ECE",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/curios-forge-5.12.1%2B1.20.1.jar"
     },
     {
       "name": "embeddium-0.3.31+mc1.20.1.jar",
       "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
       "size": 1320675,
-      "sha256": "",
-      "url": ""
+      "sha256": "EED3D1325F2ACC2FD4E69BB495E5CCB91D962126AC5330F0582EBC2A3DAF47FB",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/embeddium-0.3.31%2Bmc1.20.1.jar"
     },
     {
       "name": "ferritecore-6.0.1-forge.jar",
       "path": "mods/ferritecore-6.0.1-forge.jar",
       "size": 123034,
-      "sha256": "",
-      "url": ""
+      "sha256": "9C2C9396A49E796D88497758CAA4637D2BCBB433C318E2DD9CEBCFFBAF0F6C54",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/ferritecore-6.0.1-forge.jar"
     },
     {
       "name": "Incendium_1.20.1_v5.3.1.jar",
       "path": "mods/Incendium_1.20.1_v5.3.1.jar",
       "size": 4362594,
-      "sha256": "",
-      "url": ""
+      "sha256": "5E216871B2EC4744FD7DF3B987B6A8AF9DF95E19E44E1C8E3D84BD72D1DC1AF5",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/Incendium_1.20.1_v5.3.1.jar"
     },
     {
       "name": "jei-1.20.1-forge-15.20.0.110.jar",
       "path": "mods/jei-1.20.1-forge-15.20.0.110.jar",
       "size": 1381974,
-      "sha256": "",
-      "url": ""
+      "sha256": "53E32E2E3742FAADD9AF8566A278517367F3652EB07E73D6D5AE5A4755161817",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/jei-1.20.1-forge-15.20.0.110.jar"
     },
     {
       "name": "modernfix-forge-5.27.19+mc1.20.1.jar",
       "path": "mods/modernfix-forge-5.27.19+mc1.20.1.jar",
       "size": 951060,
-      "sha256": "",
-      "url": ""
+      "sha256": "D8F06288FFA691048D4DDD21932589B6D7B97B098DB033B29D9CF6DB06484332",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/modernfix-forge-5.27.19%2Bmc1.20.1.jar"
     },
     {
       "name": "moremobvariants-forge+1.20.1-1.3.0.1.jar",
       "path": "mods/moremobvariants-forge+1.20.1-1.3.0.1.jar",
       "size": 379988,
-      "sha256": "",
-      "url": ""
+      "sha256": "D1C8C6922BCE56092896056E73D235CB651787F3B6821E825BF5095C9B16CB13",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/moremobvariants-forge%2B1.20.1-1.3.0.1.jar"
     },
     {
       "name": "Nyctophobia_1.6_(FORGE)_for_1.20+.jar",
       "path": "mods/Nyctophobia_1.6_(FORGE)_for_1.20+.jar",
       "size": 278132,
-      "sha256": "",
-      "url": ""
+      "sha256": "B79D10517E4C7D73CCCC284C7142FAF7A6CBF8EBA82DA503C5144E931A64D99A",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/Nyctophobia_1.6__FORGE__for_1.20%2B.jar"
     },
     {
       "name": "oculus-mc1.20.1-1.8.0.jar",
       "path": "mods/oculus-mc1.20.1-1.8.0.jar",
       "size": 2851119,
-      "sha256": "",
-      "url": ""
+      "sha256": "0945DF0CBA0F62B3901DD80C3268E5311B770ECE78C78037A45DB12AC0425FEF",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/oculus-mc1.20.1-1.8.0.jar"
     },
     {
       "name": "repurposed_structures-7.1.21+1.20.1-forge.jar",
       "path": "mods/repurposed_structures-7.1.21+1.20.1-forge.jar",
       "size": 8229129,
-      "sha256": "",
-      "url": ""
+      "sha256": "EB5CDDFD1BC0CFC31E2D8BA68F848308D0A1E2974E7D826D4BB48FF20516FD7A",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/repurposed_structures-7.1.21%2B1.20.1-forge.jar"
     },
     {
       "name": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
       "path": "mods/resourcefulconfig-forge-1.20.1-2.1.3.jar",
       "size": 136923,
-      "sha256": "",
-      "url": ""
+      "sha256": "C404B9E5CF8595427A72D4CA6EE5730289168762B463F169BE3AE5DFE3727DED",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/resourcefulconfig-forge-1.20.1-2.1.3.jar"
     },
     {
       "name": "resourcefullib-forge-1.20.1-2.1.24.jar",
       "path": "mods/resourcefullib-forge-1.20.1-2.1.24.jar",
       "size": 424237,
-      "sha256": "",
-      "url": ""
+      "sha256": "E4907B158601355ECF339C2FCB2B25A620D42359784963D337E02D50B2B8EB3A",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/resourcefullib-forge-1.20.1-2.1.24.jar"
     },
     {
       "name": "Rex's-AdditionalStructures-1.20.x-(v.4.1.2).jar",
       "path": "mods/Rex's-AdditionalStructures-1.20.x-(v.4.1.2).jar",
       "size": 1451423,
-      "sha256": "",
-      "url": ""
+      "sha256": "E10476F41E9F5F8F39E6E2FE5E19171FCAF82A7C6ACCE1362D6E25E8FA3530CC",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/Rex_s-AdditionalStructures-1.20.x-_v.4.1.2_.jar"
     },
     {
       "name": "TerraBlender-forge-1.20.1-3.0.1.7 (1).jar",
       "path": "mods/TerraBlender-forge-1.20.1-3.0.1.7 (1).jar",
       "size": 107534,
-      "sha256": "",
-      "url": ""
+      "sha256": "8F00E766F5A75AA52809CF9825817E874AC4B21B5D3F52FB02D40A19EC0B759B",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/TerraBlender-forge-1.20.1-3.0.1.7__1_.jar"
     },
     {
       "name": "Terralith_1.20.1_v2.4.5.jar",
       "path": "mods/Terralith_1.20.1_v2.4.5.jar",
       "size": 2739962,
-      "sha256": "",
-      "url": ""
+      "sha256": "63D17B44D9B3A007B35D822B9FDC84A40391C574F9CE7531C8F8E569047C9DBB",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/Terralith_1.20.1_v2.4.5.jar"
     },
     {
       "name": "travelersbackpack-forge-1.20.1-9.1.53.jar",
       "path": "mods/travelersbackpack-forge-1.20.1-9.1.53.jar",
       "size": 1358125,
-      "sha256": "",
-      "url": ""
+      "sha256": "5AB2C94614BE9178E07A38316689B3AB17EEE6563A12F94B31F2D35FDF0D53CE",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/travelersbackpack-forge-1.20.1-9.1.53.jar"
     },
     {
       "name": "twilightforest-1.20.1-4.3.2508-universal (1).jar",
       "path": "mods/twilightforest-1.20.1-4.3.2508-universal (1).jar",
       "size": 23332091,
-      "sha256": "",
-      "url": ""
+      "sha256": "0BDC89263616D1B35C32EF82C5E9C14CBD20368E2FE8B468C72A28320BE7A778",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/twilightforest-1.20.1-4.3.2508-universal__1_.jar"
     },
     {
       "name": "voicechat-forge-1.20.1-2.6.17.jar",
       "path": "mods/voicechat-forge-1.20.1-2.6.17.jar",
       "size": 4903246,
-      "sha256": "",
-      "url": ""
+      "sha256": "3652B89E06F69460A8F05E0BD8FCF2F74A5EB54E2D7296BB13F54CC8B67EF761",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/voicechat-forge-1.20.1-2.6.17.jar"
     },
     {
       "name": "waystones-forge-1.20.1-14.1.20.jar",
       "path": "mods/waystones-forge-1.20.1-14.1.20.jar",
       "size": 533738,
-      "sha256": "",
-      "url": ""
+      "sha256": "5ECC6535596B5954F6293224BE6B35805C64F4D4AEDC2B9E32D9508DD529CABD",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/waystones-forge-1.20.1-14.1.20.jar"
     },
     {
       "name": "xaerominimap-forge-1.20.1-25.3.10.jar",
       "path": "mods/xaerominimap-forge-1.20.1-25.3.10.jar",
       "size": 2146522,
-      "sha256": "",
-      "url": ""
+      "sha256": "DD118045C4DAA8E27614F576D515BA5B07E4CCAE060B6B1A536437F155879C7B",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/xaerominimap-forge-1.20.1-25.3.10.jar"
     },
     {
       "name": "YungsApi-1.20-Forge-4.0.6.jar",
       "path": "mods/YungsApi-1.20-Forge-4.0.6.jar",
       "size": 370524,
-      "sha256": "",
-      "url": ""
+      "sha256": "101C30D01D0CF9D86190F578EB1E43BD06B64092E95662A00EF52946F472C7B1",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/YungsApi-1.20-Forge-4.0.6.jar"
     },
     {
       "name": "YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
       "path": "mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
       "size": 473564,
-      "sha256": "",
-      "url": ""
+      "sha256": "054B0A1BE86510ED6BD05DE66A29200F13F5603C0C9EB7E62074DDC3D19CB0E4",
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/YungsBetterStrongholds-1.20-Forge-4.0.3.jar"
     },
     {
       "name": "structurize-1.20.1-1.0.806-snapshot.jar",
       "path": "mods/structurize-1.20.1-1.0.806-snapshot.jar",
       "size": 1124580,
       "sha256": "B095261E31A517264F44AA6F369243857FB253102C180F62E1514D6D1AF94FC0",
-      "url": ""
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/structurize-1.20.1-1.0.806-snapshot.jar"
     },
     {
       "name": "blockui-1.20.1-1.0.190-snapshot.jar",
       "path": "mods/blockui-1.20.1-1.0.190-snapshot.jar",
       "size": 390916,
       "sha256": "B6ED0FBF31F7351D6AD151A01C507A3D51E405F09BF2E2A46CB528FCDCF96A96",
-      "url": ""
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/blockui-1.20.1-1.0.190-snapshot.jar"
     },
     {
       "name": "domum_ornamentum-1.20.1-1.0.288-snapshot-universal.jar",
       "path": "mods/domum_ornamentum-1.20.1-1.0.288-snapshot-universal.jar",
       "size": 1139998,
       "sha256": "F92741D361749140FC176B177C3FF83C86E254B66B473D4811C14057EFD2264E",
-      "url": ""
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/domum_ornamentum-1.20.1-1.0.288-snapshot-universal.jar"
     },
     {
       "name": "minecolonies-1.20.1-1.1.1227-snapshot.jar",
       "path": "mods/minecolonies-1.20.1-1.1.1227-snapshot.jar",
       "size": 77802012,
       "sha256": "B59536729A4B7CF7ED8D370A593E06BE83CB42FD5710413B010108AEDC8895A3",
-      "url": ""
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/minecolonies-1.20.1-1.1.1227-snapshot.jar"
     },
     {
       "name": "rftoolsutility-1.20-6.0.6.jar",
       "path": "mods/rftoolsutility-1.20-6.0.6.jar",
       "size": 1368153,
       "sha256": "300B67FBA7D79F90E34DA445E16B04A82D002393AFC99B0E65F9B28156522159",
-      "url": ""
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/rftoolsutility-1.20-6.0.6.jar"
     },
     {
       "name": "mcjtylib-1.20-8.0.7.jar",
       "path": "mods/mcjtylib-1.20-8.0.7.jar",
       "size": 714330,
       "sha256": "9562FE5E1A8582544C0A73D9967FA03438B9279D727AD150758EDB5FF9131F0A",
-      "url": ""
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/mcjtylib-1.20-8.0.7.jar"
     },
     {
       "name": "rftoolsbase-1.20-5.0.6.jar",
       "path": "mods/rftoolsbase-1.20-5.0.6.jar",
       "size": 419412,
       "sha256": "72E0996ABE9A2B209D034744707603EF97181644C1552881376CA4925E3119E3",
-      "url": ""
+      "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/rftoolsbase-1.20-5.0.6.jar"
     },
     {
       "name": "SurvieMc-1.0.0.jar",
