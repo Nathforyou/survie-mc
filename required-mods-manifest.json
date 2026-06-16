@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-16-full-modpack-downloads",
+  "version": "2026-06-16-oneblock-all-items-mobs",
   "deletePaths": [
     "mods/surviemc-gate-forge-1.20.1-1.0.0.jar"
   ],
@@ -287,8 +287,8 @@
     {
       "name": "SurvieMc-1.0.0.jar",
       "path": "mods/SurvieMc-1.0.0.jar",
-      "size": 74847,
-      "sha256": "BEB0662F7EEC392A80B59A9369A03EC822190529580250A76646A1B77E00CBE0",
+      "size": 77700,
+      "sha256": "2D14D1D799760E32E882A53C0EEF242F386BB6F9DA2C30A5E0C1C71951203C60",
       "url": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/SurvieMc-1.0.0.jar"
     }
   ]
