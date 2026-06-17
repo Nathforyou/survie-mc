@@ -1,10 +1,10 @@
 [
   {
     "version": "1.1.15",
-    "build": 6,
+    "build": 7,
     "label": "Derniere version",
     "date": "17/06/2026",
-    "notes": "Stuff automatique: le mod serveur sauvegarde inventaire, armure et position pour l onglet Personnage du launcher.",
+    "notes": "Correction Personnage: l API du mod passe sur le port 8766 pour eviter le conflit Freebox, avec le jar serveur mis a jour.",
     "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/Survie.Mc.Launcher.Setup.1.1.15.exe",
     "recommended": true
   },
