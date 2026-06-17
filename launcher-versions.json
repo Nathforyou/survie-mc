@@ -1,10 +1,10 @@
 [
   {
     "version": "1.1.15",
-    "build": 5,
+    "build": 6,
     "label": "Derniere version",
     "date": "17/06/2026",
-    "notes": "Nouvel onglet Personnage: inventaire, armure et coordonnees de deconnexion peuvent etre affiches depuis une API serveur.",
+    "notes": "Stuff automatique: le mod serveur sauvegarde inventaire, armure et position pour l onglet Personnage du launcher.",
     "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/Survie.Mc.Launcher.Setup.1.1.15.exe",
     "recommended": true
   },
