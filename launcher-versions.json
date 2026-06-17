@@ -1,10 +1,10 @@
 [
   {
     "version": "1.1.15",
-    "build": 4,
+    "build": 5,
     "label": "Derniere version",
     "date": "17/06/2026",
-    "notes": "Disposition plus complete: elements du launcher deplacables, presets appliques a tous les onglets, Galerie Photos et barre d onglets scrollable.",
+    "notes": "Nouvel onglet Personnage: inventaire, armure et coordonnees de deconnexion peuvent etre affiches depuis une API serveur.",
     "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/Survie.Mc.Launcher.Setup.1.1.15.exe",
     "recommended": true
   },

@@ -1,8 +1,8 @@
 {
   "version": "1.1.15",
-  "build": 4,
+  "build": 5,
   "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/Survie.Mc.Launcher.Setup.1.1.15.exe",
-  "notes": "1.1.15 build 4: mode disposition plus propre, elements du launcher deplacables et presets appliques a tous les onglets.",
+  "notes": "1.1.15 build 5: nouvel onglet Personnage avec inventaire, armure et derniere position via API serveur.",
   "mandatory": true,
   "silent": true
 }
