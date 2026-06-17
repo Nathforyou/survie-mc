@@ -1,8 +1,8 @@
 {
   "version": "1.1.15",
-  "build": 3,
+  "build": 4,
   "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/Survie.Mc.Launcher.Setup.1.1.15.exe",
-  "notes": "1.1.15 build 3: ajout de l onglet Galerie Photos et navigation des onglets scrollable.",
+  "notes": "1.1.15 build 4: mode disposition plus propre, elements du launcher deplacables et presets appliques a tous les onglets.",
   "mandatory": true,
   "silent": true
 }
