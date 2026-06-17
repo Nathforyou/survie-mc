@@ -1,10 +1,10 @@
 [
   {
     "version": "1.1.15",
-    "build": 2,
+    "build": 3,
     "label": "Derniere version",
-    "date": "14/06/2026",
-    "notes": "OneBlock Lucky avec commandes /ob, lucky block infini, inventaires separes, Skyblock ameliore et tri des versions corrige.",
+    "date": "17/06/2026",
+    "notes": "Galerie Photos pour poster ses screenshots dans le launcher, barre d onglets scrollable, OneBlock Lucky et Parkour quotidien.",
     "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/Survie.Mc.Launcher.Setup.1.1.15.exe",
     "recommended": true
   },
