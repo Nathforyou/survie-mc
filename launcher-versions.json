@@ -1,10 +1,10 @@
 [
   {
     "version": "1.1.15",
-    "build": 7,
+    "build": 8,
     "label": "Derniere version",
-    "date": "17/06/2026",
-    "notes": "Correction Personnage: l API du mod passe sur le port 8766 pour eviter le conflit Freebox, avec le jar serveur mis a jour.",
+    "date": "04/07/2026",
+    "notes": "Assistant IA dans le launcher, modales plus modernes, effet glassmorphism, ombres retravaillees et transitions plus douces entre les onglets.",
     "downloadUrl": "https://github.com/Nathforyou/survie-mc/releases/download/1.1.15/Survie.Mc.Launcher.Setup.1.1.15.exe",
     "recommended": true
   },
